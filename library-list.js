@@ -1,6 +1,7 @@
 (function() {
 
   var list = [
+    { type: 'optimized', id: 'lazy-dom', label: 'DBMON lazy-dom', url: './lazy-dom' },
     { type: 'todo', id: 'aurelia', label: 'DBMON Aurelia', url: '#' },
     { type: 'naive', id: 'ember', url: './ember', label: 'DBMON Ember' },
     { type: 'naive', id: 'angular', url: './angular', label: 'DBMON Angular' },
